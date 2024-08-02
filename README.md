@@ -1,4 +1,4 @@
-# University LMS Web App
+# LMS Web App
 
 ## Overview
 This Learning Management System (LMS) Web App is designed to streamline online education for our university. The application features separate portals for students and faculty, providing a comprehensive platform for managing courses, tracking progress, and enhancing user engagement and course completion.
@@ -27,18 +27,22 @@ This Learning Management System (LMS) Web App is designed to streamline online e
    git clone https://github.com/Akhilmak/LMS-WebApp.git
    ```
 2. Navigate to the project directory:
-```bash
-cd LMS-WebApp
-```
+    ```bash
+    cd LMS-WebApp
+    ```
 3. Open index.html in your preferred web browser to view the application.
 
-##Usage
-Students: Log in to access your courses, submit assignments, and participate in discussions.
-Faculty: Log in to manage your courses, grade assignments, and interact with students.
-Contributing
-We welcome contributions to improve the LMS Web App. Please fork the repository and create a pull request with your changes.
+## Usage
+###  Students : 
+    Log in to access your courses, submit assignments, and participate in discussions.
 
-##Contact
-For any questions or feedback, please contact 211801350002@cutmap.ac.in
+### Faculty: 
+    Log in to manage your courses, grade assignments, and interact with students.
+
+## Contributing
+    We welcome contributions to improve the LMS Web App. Please fork the repository and create a pull request with your changes.
+
+## Contact
+    For any questions or feedback, please contact 211801350002@cutmap.ac.in
 
 Feel free to customize the content as per your specific requirements and details.
